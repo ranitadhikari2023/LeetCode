@@ -25,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/ranitadhikari2023/LeetCode/tree/master/3934-smallest-unique-subarray) |
+## Math
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/ranitadhikari2023/LeetCode/tree/master/3360-stone-removal-game) |
+## Simulation
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/ranitadhikari2023/LeetCode/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
